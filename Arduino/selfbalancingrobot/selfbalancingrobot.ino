@@ -3,8 +3,8 @@
 #include <Wire.h>
 
 //Motor driver 1 output wires
-  #define DIR1 14
-  #define STEP1 27
+  #define DIR1 18
+  #define STEP1 19  
 
   //Motor driver 2 output wires
   #define DIR2 25
