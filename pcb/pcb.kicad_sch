@@ -3919,7 +3919,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SelfBalancingRobot:Untitled"
+		(property "Footprint" "SelfBalancingRobot:Battery_Connection_01x02"
 			(at 109.22 143.51 0)
 			(hide yes)
 			(show_name no)
