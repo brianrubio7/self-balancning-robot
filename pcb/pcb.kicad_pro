@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/brian/Desktop/Self Balancing Robot PCB/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -648,7 +648,7 @@
         "uuid": "a8f54ad2-8b40-46e4-905b-b186a8978da6"
       }
     ],
-    "used_designators": "J1",
+    "used_designators": "J1,#PWR1-9",
     "variants": []
   },
   "sheets": [
