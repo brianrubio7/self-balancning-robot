@@ -87,3 +87,38 @@ Self-Balancing Robot Project log
 - Add a vertical support wall at the middle length of my plate
 - This will support only the first plate made
 - For my second plate or potentially my third I will add poles going up each plate for better structural integrity.
+
+## June 19, 2026
+
+### PrototypeV1.2
+
+**Side View**
+
+![Prototype V1.1 Side](../Images/prototype_v1.2_side.jpeg)
+
+**Front View**
+
+![Prototype V1.1 Front](../Images/prototype_v1.2.jpeg)
+
+## Design Changes
+
+- Made the rectangular plate shorter by width and height. This made the structural integrity
+  of the plate better since it wasn't as long.
+
+- The screw holes that hold the plates are not fully threaded in and this improved the clamping force. Overall my structural integrity is better than my previous prototype and I can start working on the electronics.
+
+- Made the adapter shorter on the motor shaft side and wheel side. Didn't add screws since I
+  lowered the dimensions to fit tightly with the motor shaft and the wheel. This greatly improved the friciton between the wheel / shaft and the adapter so it doesn't move when
+  rotating.
+
+## Current Problems
+
+1.  ### Electronic Wiring
+    - Breadboard isn't stable and falls sometimes when testing software.
+    - Jumper wires become loose and I have to constantly take out and fix it.
+
+    **Planned Solution**
+
+- Create a custom PCB with soldered electronics.
+- Will use kicad and PCB way as a manufacturer.##
+- This will allow for very consistent testing.
