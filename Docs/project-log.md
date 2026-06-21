@@ -92,18 +92,18 @@ Self-Balancing Robot Project log
 
 ### PrototypeV1.2
 
-**Side View**
-
-![Prototype V1.1 Side](../Images/prototype_v1.2_side.jpeg)
-
 **Front View**
 
 ![Prototype V1.1 Front](../Images/prototype_v1.2.jpeg)
 
+**Side View**
+
+![Prototype V1.1 Side](../Images/prototype_v1.2_side.jpeg)
+
 ## Design Changes
 
 - Made the rectangular plate shorter by width and height. This made the structural integrity
-  of the plate better since it wasn't as long.
+  of the plate better since it wasn't as long. So adding a support wall was no longer needed.
 
 - The screw holes that hold the plates are not fully threaded in and this improved the clamping force. Overall my structural integrity is better than my previous prototype and I can start working on the electronics.
 
